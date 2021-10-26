@@ -17,8 +17,8 @@ const getZapatillas = async (url)=>{
     data.forEach(producto  => {
         const {imagen, referencia, estilo} = producto;
         mostrarProductos.innerHTML +=
-        `<div class="col mascotas">
-        <a href="#" class="enlace-detalle-mascota">
+        `<div class="col zapatillas">
+        <a href="#" class="enlace-detalle-producto">
             <div class="card bg-dark text-white gradiente">                
                 <img src="${imagen}" class="card-img" alt="...">
                 <div class="card-img-overlay">
