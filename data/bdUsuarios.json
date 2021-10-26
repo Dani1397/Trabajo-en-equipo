@@ -1,0 +1,40 @@
+{
+  "usuarios": [
+    {
+      "id": 2,
+      "nombre": "David",
+      "apellido": "Herrera",
+      "correo": "david@gmail.com"
+    },
+    {
+      "nombre": "juan",
+      "apellido": "suarez",
+      "correo": "juanseu3@hotmail.com",
+      "id": 3
+    },
+    {
+      "name": "Juan",
+      "lastName": "suarez",
+      "email": "juanseu3@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "Juan",
+      "lastName": "suarez",
+      "email": "juanseu3@hotmail.com",
+      "id": 5
+    },
+    {
+      "name": "Juan",
+      "lastName": "suarez",
+      "email": "juanseu3@hotmail.com",
+      "id": 6
+    },
+    {
+      "name": "",
+      "lastName": "",
+      "email": "",
+      "id": 7
+    }
+  ]
+}

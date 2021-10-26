@@ -1,0 +1,69 @@
+{
+    "Nike": [
+        {
+            "referencia": "Revolution 5",
+            "estilo": "Running",
+            "fecha-lanzamiento": "12 meses",
+            "descripcion": [
+                "Comodidad innovadora",
+                "Gran elasticidad",
+                "Rebote ultraligero"
+            ],
+            "reseña": "En general el zapato es muy bonito. Me recuerda a ponerme un calcetín, por el material, y por cómo se ajusta el zapato. ",
+            "usuario": "Enrique Gómez",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png",
+            "imagen": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwd3866b54/products/NI_BQ3207-002/NI_BQ3207-002-1.JPG",
+            "id": 1,
+            "Marca": "Nike"
+        },
+        {
+            "referencia": "Air force one",
+            "estilo": "Classic",
+            "fecha-lanzamiento": "3 meses",
+            "descripcion": [
+                "Definen el 'street style'",
+                "Ripstop translúcido",
+                "Incluye Crater Foam"
+            ],
+            "reseña": "La razón por la que los compré y me encantaron después es que son respetuosos con el medio ambiente, desde el embalaje de la caja hasta las zapatillas.",
+            "usuario": "Maria Dolores",
+            "imgusuario": "https://i.ibb.co/JvbRKsn/Ellipse9.png",
+            "imagen": "https://www.culturaurbanashop.es/uploads/photo/image/1558/gallery_013747_1.JPG",
+            "id": 2,
+            "Marca": "Nike"
+        },
+        {
+            "referencia": "Revolution 5 blue",
+            "estilo": "Running",
+            "fecha-lanzamiento": "5 meses",
+            "descripcion": [
+                "Talón reforzado",
+                "La espuma suave amortigua tu paso",
+                "Se adaptan a cualquier lugar"
+            ],
+            "reseña": "Son un alivio para mi último par de zapatillas de gimnasia. No sólo son cómodas, ligeras y transpirables, sino que tienen un aspecto increíble. Me encanta el ajuste de estos tennis.",
+            "usuario": "Sofia Álvarez",
+            "imgusuario": "https://i.ibb.co/JvbRKsn/Ellipse9.png",
+            "imagen": "https://www.dexter.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw3597f653/products/NI_BQ3204-400/NI_BQ3204-400-1.JPG",
+            "id": 3,
+            "Marca": "Nike"
+        },
+        {
+            "referencia": "Pegasus 37",
+            "estilo": "Running",
+            "fecha-lanzamiento": "8 meses",
+            "ubicacion": "Calle 23-42a 113 - Medellín Antioquia Colombia",
+            "descripcion": [
+                "Ligera diseñada para correr a diario.",
+                "Con unidad de amortiguación",
+                "Excelente ajuste"
+            ],
+            "reseña": "Las zapatillas son geniales, súper cómodas, fáciles de correr. Me gustaría comprar más pares en el futuro.",
+            "usuario": "Martin Lemus.",
+            "imgusuario": "https://i.ibb.co/0jk5rR8/Ellipse10.png",
+            "imagen": "https://imagensport.es/wp-content/uploads/2021/03/zapatillas-nike-air-zoom-pegasus-37-blancas-amarillo-running-hombre.jpg",
+            "id": 4,
+            "Marca": "Nike"
+        }
+    ]
+}
