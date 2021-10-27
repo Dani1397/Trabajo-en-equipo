@@ -3,38 +3,44 @@
     {
       "id": 2,
       "nombre": "David",
-      "apellido": "Herrera",
+      "apellido": "Sanchez",
       "correo": "david@gmail.com"
     },
     {
-      "nombre": "juan",
-      "apellido": "suarez",
+      "nombre": "Juan",
+      "apellido": "Suarez",
       "correo": "juanseu3@hotmail.com",
       "id": 3
     },
     {
-      "name": "Juan",
-      "lastName": "suarez",
-      "email": "juanseu3@hotmail.com",
+      "name": "Juana",
+      "lastName": "Perez",
+      "email": "juanibae@hotmail.com",
       "id": 4
     },
     {
-      "name": "Juan",
-      "lastName": "suarez",
-      "email": "juanseu3@hotmail.com",
+      "name": "Daniela",
+      "lastName": "Rivera",
+      "email": "danswag@hotmail.com",
       "id": 5
     },
     {
-      "name": "Juan",
-      "lastName": "suarez",
-      "email": "juanseu3@hotmail.com",
+      "name": "Valentina",
+      "lastName": "Garzon",
+      "email": "valenmua@hotmail.com",
       "id": 6
     },
     {
-      "name": "",
-      "lastName": "",
-      "email": "",
+      "name": "Alejandra",
+      "lastName": "Ramirez",
+      "email": "ale.bae17@gmail.com",
       "id": 7
+    },
+    {
+      "name": "David",
+      "lastName": "Sanchez Escobar ",
+      "email": "david@gmail.com",
+      "id": 8
     }
   ]
 }
